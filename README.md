@@ -27,7 +27,7 @@
     </thead>
     <tbody>
         <tr>
-            <td>蜥蜴 AI</td>
+            <td>蛇语 AI</td>
             <td><a href="https://snakegpt.work" target="_blank">snakegpt.work</a></td>
             <td>GPT-4, GPT-3.5</td>
             <td>有</td>
@@ -46,7 +46,7 @@
         </tr>
         <tr>
             <td>熊猫 GPT</td>
-            <td><a href="https://ai-panda.xyz/login?invite_code=34137c47" target="_blank">ai-panda.xyz</a></td>
+            <td><a href="https://ai-panda.xyz" target="_blank">ai-panda.xyz</a></td>
             <td>GPT-4, GPT-3.5</td>
             <td>有</td>
             <td>国内邮箱注册</td>
@@ -74,7 +74,7 @@
     <li>虽然<strong>狗狗 GPT</strong>免费，但由于 bug 较多，暂时不推荐使用。</li>
 </ul>
 
-<h2>使用 ChatGPT 中文版的步骤指南</h2>
+<h2>如何通过镜像网站无需翻墙使用 ChatGPT 中文版？</h2>
 <p>以下是使用这些镜像网站的基本步骤：</p>
 <ol>
     <li>访问推荐的镜像网站，如 <a href="https://snakegpt.work" target="_blank">蛇语 AI</a>。</li>
@@ -83,5 +83,14 @@
     <li>如需高级功能，可根据需求升级至付费版本。</li>
 </ol>
 
+<h2>常见问题解答 (FAQ)</h2>
+<ul>
+    <li><strong>Q: ChatGPT 中文版需要翻墙吗？</strong><br>A: 通过推荐的国内镜像网站，无需翻墙即可免费体验 ChatGPT 中文版。</li>
+    <li><strong>Q: 哪个镜像网站支持 GPT-4？</strong><br>A: 蜥蜴 AI 和熊猫 GPT 都支持 GPT-4 功能。</li>
+    <li><strong>Q: 镜像网站的稳定性如何？</strong><br>A: 推荐的镜像网站经过测试，稳定性高，特别是蜥蜴 AI 和 GPT 猫中文站表现优秀。</li>
+</ul>
+
 <h2>总结</h2>
 <p>以上是关于 <strong>ChatGPT 中文版</strong>的最新镜像网站推荐。这些镜像网站不仅支持最新的 GPT-4 功能，还提供了便捷的国内使用方式，让您无需翻墙即可快速上手。如果您觉得本文对您有帮助，欢迎收藏并分享给更多需要的朋友！</p>
+
+
